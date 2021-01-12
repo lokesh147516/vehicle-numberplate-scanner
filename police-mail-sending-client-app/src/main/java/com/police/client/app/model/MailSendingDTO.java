@@ -1,4 +1,4 @@
-package com.rule.violation.zuul.server.model;
+package com.police.client.app.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
